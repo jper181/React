@@ -1,2 +1,0 @@
-# React
-Proyecto de ejemplo
